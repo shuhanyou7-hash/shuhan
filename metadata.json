@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Neon Tetris",
+  "description": "A high-performance, neon-themed Tetris game with an integrated AI Strategic Coach powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
